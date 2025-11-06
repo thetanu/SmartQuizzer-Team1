@@ -30,7 +30,7 @@ This project bridges the gap between **static quizzes** and **adaptive, AI-drive
 ## 🧩 System Architecture  
 
 +------------------------------------------------------+
-|                      FRONTEND                        |
+|                  **FRONTEND**                        |
 |  HTML | CSS | JavaScript | Flask Templates (Jinja2)  |
 +----------------------------+-------------------------+
                              |
@@ -138,10 +138,10 @@ Visit the app at:
 
 ## 📊 Results & Achievements
 
-✅ Successfully generates adaptive quizzes from text, PDF, and web content.
-✅ Tracks learner performance and adjusts future questions automatically.
-✅ Provides a clean, responsive, and user-friendly web interface.
-✅ Designed with a modular Flask + SQLite architecture for scalability.
+### ✅ Successfully generates adaptive quizzes from text, PDF, and web content.
+### ✅ Tracks learner performance and adjusts future questions automatically.
+### ✅ Provides a clean, responsive, and user-friendly web interface.
+### ✅ Designed with a modular Flask + SQLite architecture for scalability.
 
 ## 🔮 Future Enhancements
 
